@@ -93,3 +93,7 @@
     <td><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a></td>
   </tr>
 </table>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ines312692)](https://github.com/ines312692/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ines312692)](https://github.com/ines312692/github-readme-stats)
