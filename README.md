@@ -89,8 +89,6 @@
     <td><a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" alt="JetBrains" width="40" height="40"/></a></td>
     <td><a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a></td>
     <td><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a></td>
-    <td><a href="https://staruml.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/staruml-logo-8799D18D41-seeklogo.com.png" alt="StarUML" width="40" height="40"/></a></td>
-  
     <td><a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
     <td><a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a></td>
   </tr>
