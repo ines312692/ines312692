@@ -28,19 +28,19 @@
     <td align="center">
       <a href="https://linkedin.com/in/ines-tmimi-06887129b/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/><br />
-        <sub><b>LinkedIn</b></sub>
+        
       </a>
     </td>
     <td align="center">
       <a href="mailto:inestmimi1234@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/><br />
-        <sub><b>Gmail</b></sub>
+       
       </a>
     </td>
     <td align="center">
       <a href="mailto:ines.tmimi@ensit.u-tunis.tn" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Outlook" width="40" height="40"/><br />
-        <sub><b>Outlook</b></sub>
+        
       </a>
     </td>
   </tr>
