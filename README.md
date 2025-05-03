@@ -23,24 +23,25 @@
 - [Operating Systems](#operating-systems)
 
 ## Connect with Me
-<p align="left">
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 10px;">
+  
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ines-tmimi-06887129b/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  
+
   <!-- Gmail -->
   <a href="mailto:inestmimi1234@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" width="40" style="margin-left: 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" width="40" />
   </a>
 
   <!-- Outlook -->
   <a href="mailto:ines.tmimi@ensit.u-tunis.tn" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Outlook" height="40" width="40" style="margin-left: 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Outlook" height="40" width="40" />
   </a>
-</p>
 
-</p>
+</div>
+
 
 ## Languages
 <table>
