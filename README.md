@@ -108,7 +108,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ines312692)](https://github.com/ines312692/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ines312692)](https://github.com/ines312692/github-readme-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ines312692&show_icons=true&theme=tokyonight" />
-</p>
+
 
