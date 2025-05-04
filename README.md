@@ -109,7 +109,10 @@
     <td><a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a></td>
     <td><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/></a></td>
     <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/></a></td>
-    <td><a href="https://www.oracle.com/java/technologies/java-ee-glance.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaEE" width="40" height="40"/></a></td>
+  <td><a href="https://jakarta.ee/" target="_blank" rel="noreferrer">
+  <img src="https://jakarta.ee/images/jakarta-ee-logo.svg" alt="Jakarta EE" width="60" height="30"/>
+</a></td>
+
 <td><a href="https://openjfx.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/JavaFX_Logo.png" alt="JavaFX" width="40" height="40"/></a></td>
 <td><a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/JUnit_5_Banner.png" alt="JUnit5" width="80" height="25"/></a></td>
 <td><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/></a></td>
