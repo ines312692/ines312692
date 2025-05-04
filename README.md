@@ -112,6 +112,8 @@
     <td><a href="https://www.oracle.com/java/technologies/java-ee-glance.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaEE" width="40" height="40"/></a></td>
 <td><a href="https://openjfx.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/JavaFX_Logo.png" alt="JavaFX" width="40" height="40"/></a></td>
 <td><a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/JUnit_5_Banner.png" alt="JUnit5" width="80" height="25"/></a></td>
+<td><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/></a></td>
+<td><a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/></a></td>
 
   
   </tr>
