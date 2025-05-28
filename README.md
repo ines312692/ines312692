@@ -134,7 +134,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ines312692)](https://github.com/ines312692/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ines312692)](https://github.com/ines312692/github-readme-stats)
+
 
 
 
