@@ -28,7 +28,7 @@
 | Section           | Jump to                  |
 |-------------------|--------------------------|
 | Connect with Me   | [📧 Let's connect!](#connect-with-me)   |
-| Languages         | [💻 What I speak](#languages)             |
+| Languages         | [💻 Languages ](#languages)             |
 | Frameworks       | [⚙️ My frameworks](#frameworks)          |
 | Databases         | [🗄️ Data storage](#databases)              |
 | Web Languages     | [🌐 Web stuff](#web-languages)             |
