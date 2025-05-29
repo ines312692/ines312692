@@ -12,15 +12,34 @@
 </p>
 
 - 📫 How to reach me: [inestmimi1234@gmail.com](mailto:inestmimi1234@gmail.com) , [ines.tmimi@ensit.u-tunis.tn](mailto:ines.tmimi@ensit.u-tunis.tn)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
-## Table of Contents
-- [Connect with Me](#connect-with-me)
-- [Languages](#languages)
-- [Frameworks](#frameworks)
-- [Databases](#databases)
-- [Web Languages](#web-languages)
-- [Tools](#tools)
-- [Operating Systems](#operating-systems)
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Spring Boot Badge](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)](#) 
+[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#) 
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+
+
+## ⚡️✨ Table of Contents ⚡️✨
+
+| Section           | Jump to                  |
+|-------------------|--------------------------|
+| Connect with Me   | [📧 Let's connect!](#connect-with-me)   |
+| Languages         | [💻 What I speak](#languages)             |
+| Frameworks       | [⚙️ My frameworks](#frameworks)          |
+| Databases         | [🗄️ Data storage](#databases)              |
+| Web Languages     | [🌐 Web stuff](#web-languages)             |
+| Tools             | [🛠️ My toolbox](#tools)                    |
+| Operating Systems | [🖥️ OS love](#operating-systems)           |
+
+
+
+
+
+
 
 ## Connect with Me
 <table>
