@@ -36,11 +36,6 @@
 | Operating Systems | [🖥️ OS love](#operating-systems)           |
 
 
-
-
-
-
-
 ## Connect with Me
 <table>
   <tr>
