@@ -27,13 +27,13 @@
 
 | Section           | Jump to                  |
 |-------------------|--------------------------|
-| Connect with Me   | [📧 Let's connect!](#connect-with-me)   |
-| Languages         | [💻 Languages ](#languages)             |
-| Frameworks       | [⚙️ My frameworks](#frameworks)          |
-| Databases         | [🗄️ Data storage](#databases)              |
-| Web Languages     | [🌐 Web stuff](#web-languages)             |
-| Tools             | [🛠️ My toolbox](#tools)                    |
-| Operating Systems | [🖥️ OS love](#operating-systems)           |
+| Connect with Me   | [Let's connect!](#connect-with-me)   |
+| Languages         | [Languages ](#languages)             |
+| Frameworks       | [My frameworks](#frameworks)          |
+| Databases         | [Data storage](#databases)              |
+| Web Languages     | [Web stuff](#web-languages)             |
+| Tools             | [My toolbox](#tools)                    |
+| Operating Systems | [OS love](#operating-systems)           |
 
 
 ## Connect with Me
