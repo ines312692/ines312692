@@ -1,15 +1,20 @@
 <p align="center">
-  <img src="https://i.imgur.com/IyjFcq1.png" width="200px">
-  <br>
-  <samp>
-    Hello, I'm Ines! 👋<br>
-    Software Engineering student <br>
-    :school: National Higher School of Engineering of Tunis <br>
-    :sparkles: Favorite Tech: Java <br>
-    :notebook: I’m currently learning Machine Learning <br>
-    :email: inestmimi1234@gmail.com <br>
+  <img src="https://i.imgur.com/IyjFcq1.png" width="250px"> <!-- image un peu plus grande -->
+  <br><br>
+  <samp style="font-size: 18px">
+    <b>Hello, I'm Ines! 👋</b><br><br>
+    🎓 <b>Software Engineering Student</b><br>
+    🏫 National Higher School of Engineering of Tunis (ENSIT)<br>
+    💻 Passionate about modern technologies and software architecture<br>
+    🌟 Favorite Tech Stack: Java, Spring Boot, Angular<br>
+    📚 Currently exploring Machine Learning and Data Engineering<br>
+    🌍 Based in Tunisia<br>
+    📫 Reach me at: <a href="mailto:inestmimi1234@gmail.com">inestmimi1234@gmail.com</a><br>
+    📫 or academic mail: <a href="mailto:ines.tmimi@ensit.u-tunis.tn">ines.tmimi@ensit.u-tunis.tn</a><br>
+    🚀 Always excited to learn, build, and collaborate on impactful projects!<br>
   </samp>
 </p>
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
