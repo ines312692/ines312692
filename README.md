@@ -137,10 +137,9 @@
     <td><a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a></td>
-    <td><a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a></td>
+   
     <td><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a></td>
-    <td><a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"><img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="Argo CD" width="40" height="40"/></a></td>
+   
   </tr>
 </table>
 
