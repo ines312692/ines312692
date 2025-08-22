@@ -5,7 +5,7 @@
     <b>Hello, I'm Ines! 👋</b><br><br>
     🎓 <b>Software Engineering Student</b><br>
     🏫 National Higher School of Engineering of Tunis (ENSIT)<br>
-    💻 Passionate about modern technologies and software architecture<br
+    💻 Passionate about modern technologies and software architecture<br>
     🌟 Favorite Tech Stack: Java, Spring Boot, Angular<br>
     📚 Currently exploring Machine Learning and Data Engineering<br>
     🌍 Based in Tunisia<br>
