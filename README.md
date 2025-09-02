@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineering+Student;Full+Stack+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="💻" width="50" height="50" />
-**National Higher School of Engineering of Tunis (ENSIT)**
+
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ines312692&style=for-the-badge&color=blueviolet" alt="Profile views" />
