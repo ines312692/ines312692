@@ -1,32 +1,71 @@
 <div align="center">
-  
-  <!-- Animation de bienvenue -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ines+Tmimi!+👋;Software+Engineering+Student;Full+Stack+Developer;DevOps+Enthusiast" alt="Typing SVG" />
-  
-  <img src="https://i.imgur.com/IyjFcq1.png" width="250px">
-  
-  <!-- Badges animés -->
-  <div>
-    <img src="https://img.shields.io/github/commit-activity/m/ines312692/ines312692?style=for-the-badge&color=brightgreen" alt="Commit Activity" />
-    <img src="https://img.shields.io/github/followers/ines312692?logo=github&style=for-the-badge&color=0e75b6&labelColor=000000" alt="Followers" />
-    <img src="https://img.shields.io/badge/Focus-%20DeVops-brightgreen?style=for-the-badge">
-  </div>
-  
-  <br>
-  
-  <samp style="font-size: 18px">
-     <b>Software Engineering Student</b><br>
-     National Higher School of Engineering of Tunis (ENSIT)<br>
-    Passionate about modern technologies and software architecture<br>
-    Favorite Tech Stack: Java, Spring Boot, Angular<br>
-    Currently exploring Machine Learning and Data Engineering<br>
-    Based in Tunisia<br>
-    Reach me at: <a href="mailto:inestmimi1234@gmail.com">inestmimi1234@gmail.com</a><br>
-    or academic mail: <a href="mailto:ines.tmimi@ensit.u-tunis.tn">ines.tmimi@ensit.u-tunis.tn</a><br>
-    Always excited to learn, build, and collaborate on impactful projects!<br>
-  </samp>
+
+<!-- Animation de bienvenue avec gradient -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=6DB33F&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ines+Tmimi!+👋;Software+Engineering+Student;Full+Stack+Developer;DevOps+Enthusiast;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+
+<br/>
+
+<!-- Photo avec animation de rotation -->
+<img src="https://i.imgur.com/IyjFcq1.png" width="280px" style="border-radius: 50%; animation: rotate 20s linear infinite;">
+
+<br/><br/>
+
+<!-- Badges animés avec couleurs dégradées -->
+<div>
+  <img src="https://img.shields.io/github/commit-activity/m/ines312692/ines312692?style=for-the-badge&color=brightgreen&labelColor=2b7e2b" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/followers/ines312692?logo=github&style=for-the-badge&color=0e75b6&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-%20DevOps-brightgreen?style=for-the-badge&labelColor=1a5319">
+  <img src="https://img.shields.io/badge/Status-Learning%20Daily-ff69b4?style=for-the-badge&labelColor=c73a93">
+</div>
+
+<br/>
+
+<!-- Ligne de séparation animée -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Contenu principal avec style amélioré -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+
+<samp style="font-size: 20px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+<b>Software Engineering Student</b>
+<i>National Higher School of Engineering of Tunis (ENSIT)</i>
+
+<b>About Me:</b>
+Passionate about modern technologies and software architecture
+Always pushing the boundaries of what's possible with code
+
+<b>Favorite Tech Stack:</b>
+Java • Spring Boot • Angular • DevOps Tools
+
+<b>Currently Exploring:</b>
+Machine Learning & Data Engineering
+Cloud Computing & Microservices Architecture
+
+<b>Location:</b> Tunisia
+
+<b>Let's Connect:</b>
+<a href="mailto:inestmimi1234@gmail.com" style="color: #FFD700; text-decoration: none;">inestmimi1234@gmail.com</a>
+<a href="mailto:ines.tmimi@ensit.u-tunis.tn" style="color: #FFD700; text-decoration: none;"> ines.tmimi@ensit.u-tunis.tn</a>
+
+<b> Mission:</b>
+<i>"Always excited to learn, build, and collaborate on impactful projects!"</i>
+</samp>
 
 </div>
+
+<!-- Vague animée de fin -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Citation inspirante qui change -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=764ba2&center=true&vCenter=true&width=800&lines=Code+is+poetry+written+in+logic;Innovation+distinguishes+between+a+leader+and+a+follower;The+best+way+to+predict+the+future+is+to+create+it" alt="Quote SVG" />
+
+</div>
+
+
 
 ---
 
@@ -173,7 +212,7 @@
 ### Thanks for visiting! Let's connect and build something amazing together! 
 
 <!-- Animation de fin -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Happy+Coding!+;Let's+build+the+future+together!;Thank+you+for+visiting!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Happy+Coding!+;Let's+build+the+future+together!;Thank+you+for+visiting!+⭐" alt="Typing SVG" />
 
 <!-- Footer avec animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
