@@ -31,11 +31,10 @@
 <samp style="font-size: 20px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
 <b>Software Engineering Student</b>
 <i>National Higher School of Engineering of Tunis (ENSIT)</i>
-
+  
 <b>About Me:</b>
 Passionate about modern technologies and software architecture
 Always pushing the boundaries of what's possible with code
-
 <b>Favorite Tech Stack:</b>
 Java • Spring Boot • Angular • DevOps Tools
 
