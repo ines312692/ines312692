@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animation de bienvenue -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ines+Tmimi!+👋;Software+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ines+Tmimi!+👋;Software+Engineering+Student;Full+Stack+Developer;DevOps+Enthusiast" alt="Typing SVG" />
   
   <img src="https://i.imgur.com/IyjFcq1.png" width="250px">
   
