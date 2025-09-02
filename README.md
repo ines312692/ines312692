@@ -173,7 +173,7 @@
 ### Thanks for visiting! Let's connect and build something amazing together! 
 
 <!-- Animation de fin -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Happy+Coding!+;Let's+build+the+future+together!;Thank+you+for+visiting!+⭐" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Happy+Coding!+;Let's+build+the+future+together!;Thank+you+for+visiting!" alt="Typing SVG" />
 
 <!-- Footer avec animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
