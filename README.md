@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animation de bienvenue avec gradient -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=6DB33F&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ines+Tmimi!+👋;Software+Engineering+Student;Full+Stack+Developer;DevOps+Enthusiast;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=6DB33F&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ines+Tmimi!+🌸;Software+Engineering+Student;Full+Stack+Developer;DevOps+Enthusiast;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
 <br/>
 
