@@ -127,7 +127,7 @@ Cloud Computing & Microservices Architecture
 <table>
   <tr>
     <td><a href="https://bun.sh" target="_blank" rel="noreferrer"><img src="https://bun.sh/logo.svg" alt="Bun.js" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a></td>
+    <td><a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40"/></a></td>
     <td><a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a></td>
     <td><a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" alt="JetBrains" width="40" height="40"/></a></td>
     <td><a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a></td>
@@ -140,8 +140,17 @@ Cloud Computing & Microservices Architecture
     <td><a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a></td>
   </tr>
   <tr>
-  <td><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a></td>
-   
+  <td><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a></td>
+   <td><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/></a></td>
+    <td><a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/fav32.png" alt="Grafana" width="40" height="40"/></a></td>
+    <td><a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/775px-Prometheus_software_logo.svg.png" alt="Prometheus" width="40" height="40"/></a></td>
+    <td><a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=argocd" alt="Argo CD" width="40" height="40"/></a></td>
+  
+   <td><a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40"/></a></td>
+    <td><a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a></td>
+    <td><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a></td>
+    <td><a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=helm" alt="Helm" width="40" height="40"/></a></td>
+  </tr>
   </tr>
 </table>
 
