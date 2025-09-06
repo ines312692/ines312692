@@ -150,6 +150,10 @@ Cloud Computing & Microservices Architecture
     <td><a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a></td>
     <td><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a></td>
     <td><a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=helm" alt="Helm" width="40" height="40"/></a></td>
+    <td><a href="https://snyk.io/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=snyk" alt="Snyk" width="40" height="40"/></a></td>
+    <td><a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40"/></a></td>
+    <td><a href="https://appsecmap.com/images/d/Trivy.png" target="_blank" rel="noreferrer"><img src="https://appsecmap.com/images/d/Trivy.png" alt="Trivy" width="40" height="40"/></a></td>
+  
   </tr>
   </tr>
 </table>
