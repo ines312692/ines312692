@@ -11,12 +11,7 @@
 <br/><br/>
 
 <!-- Badges animés avec couleurs dégradées -->
-<div>
-  <img src="https://img.shields.io/github/commit-activity/m/ines312692/ines312692?style=for-the-badge&color=brightgreen&labelColor=2b7e2b" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/followers/ines312692?logo=github&style=for-the-badge&color=0e75b6&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-%20DevOps-brightgreen?style=for-the-badge&labelColor=1a5319">
-  <img src="https://img.shields.io/badge/Status-Learning%20Daily-ff69b4?style=for-the-badge&labelColor=c73a93">
-</div>
+
 
 <br/>
 
