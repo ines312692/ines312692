@@ -59,6 +59,9 @@ Cloud Computing & Microservices Architecture
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=764ba2&center=true&vCenter=true&width=800&lines=Code+is+poetry+written+in+logic;Innovation+distinguishes+between+a+leader+and+a+follower;The+best+way+to+predict+the+future+is+to+create+it" alt="Quote SVG" />
 
 </div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ines312692&theme=default&hide_border=true" alt="ines312692's GitHub Stats" />
+</p>
 
 
 
