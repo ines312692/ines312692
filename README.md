@@ -49,8 +49,6 @@ Cloud Computing & Microservices Architecture
 <a href="mailto:inestmimi1234@gmail.com" style="color: #FFD700; text-decoration: none;">inestmimi1234@gmail.com</a>
 <a href="mailto:ines.tmimi@ensit.u-tunis.tn" style="color: #FFD700; text-decoration: none;"> ines.tmimi@ensit.u-tunis.tn</a>
 
-<b> Mission:</b>
-<i>"Always excited to learn, build, and collaborate on impactful projects!"</i>
 </samp>
 
 </div>
