@@ -56,7 +56,6 @@ Cloud Computing & Microservices Architecture
 <!-- Vague animée de fin -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
 
 <!-- Citation inspirante qui change -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=764ba2&center=true&vCenter=true&width=800&lines=Code+is+poetry+written+in+logic;Innovation+distinguishes+between+a+leader+and+a+follower;The+best+way+to+predict+the+future+is+to+create+it" alt="Quote SVG" />
