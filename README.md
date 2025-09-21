@@ -5,9 +5,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=false&vCenter=true&width=500&lines=Hello%2C+I'm+Ines+Tmimi!+🌸;Software+Engineering+Student;DevOps+Enthusiast;Full+Stack+Developer;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </div>
 
+
 <br/><br/>
 
-<!-- Badges animés avec couleurs dégradées -->
+<!-- Bannière animée -->
+<div align="center">
+  <img src="https://github.com/ines312692/ines312692/blob/main/banniere.gif?raw=true" alt="Banner" width="800"/>
+</div>
+
+<br/>
+
+
 
 
 <br/>
