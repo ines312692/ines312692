@@ -1,7 +1,7 @@
 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 0px;">
-  <img src="https://i.imgur.com/IyjFcq1.png" width="100px" style="border-radius: 50%; animation: rotate 20s linear infinite; margin-right: 15px;">
+  <img src="https://github.com/ines312692/ines312692/blob/main/dabdoub.png" width="100px" style="border-radius: 50%; animation: rotate 20s linear infinite; margin-right: 15px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF69B4&center=false&vCenter=true&width=500&lines=Hello%2C+I'm+Ines+Tmimi!+🌸;Software+Engineering+Student;DevOps+Enthusiast;Full+Stack+Developer;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </div>
 
