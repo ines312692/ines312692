@@ -6,14 +6,15 @@
 </div>
 
 
-<br/><br/>
+<br/>
 
 <!-- Bannière animée -->
 <div align="center">
-  <img src="https://github.com/ines312692/ines312692/blob/main/banniere.gif?raw=true" alt="Banner" width="800"/>
+  <img src="https://github.com/ines312692/ines312692/blob/main/banniere.gif?raw=true" alt="Banner" width="1000"/>
 </div>
 
 <br/>
+
 
 
 
