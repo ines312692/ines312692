@@ -24,13 +24,41 @@
 <!-- Ligne de séparation animée -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
+
+<!-- Contenu principal avec style amélioré -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+
+<samp style="font-size: 20px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+<b>Software Engineering Student</b>
+<i>National Higher School of Engineering of Tunis (ENSIT)</i>
+  
+<b>About Me:</b>
+Passionate about modern technologies and software architecture
+Always pushing the boundaries of what's possible with code
+<b>Favorite Tech Stack:</b>
+Java • Spring Boot • Angular • DevOps Tools
+
+<b>Currently Exploring:</b>
+Machine Learning & Data Engineering
+Cloud Computing & Microservices Architecture
+
+<b>Location:</b> Tunisia
+
+<b>Let's Connect:</b>
+<a href="mailto:inestmimi1234@gmail.com" style="color: #FFD700; text-decoration: none;">inestmimi1234@gmail.com</a>
+<a href="mailto:ines.tmimi@ensit.u-tunis.tn" style="color: #FFD700; text-decoration: none;"> ines.tmimi@ensit.u-tunis.tn</a>
+
+</samp>
+
+</div>
+
+<!-- Vague animée de fin -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 <!-- Citation inspirante qui change -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=764ba2&center=true&vCenter=true&width=800&lines=Code+is+poetry+written+in+logic;Innovation+distinguishes+between+a+leader+and+a+follower;The+best+way+to+predict+the+future+is+to+create+it" alt="Quote SVG" />
-<!-- Vague animée de fin -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 
 </div>
 <p align="center">
