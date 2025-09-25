@@ -32,25 +32,6 @@
 <samp style="font-size: 20px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
 <h2 style="margin:5px 0;"><b>Software Engineering Student</b></h2>
 <h3 style="margin:5px 0;"><i>National Higher School of Engineering of Tunis (ENSIT)</i></h3>
-  
-<h3 style="margin:10px 0 5px 0;"><b>About Me:</b></h3>
-<p style="font-size:18px; margin:2px 0;">
-Passionate about modern technologies and software architecture<br>
-Always pushing the boundaries of what's possible with code
-</p>
-
-<h3 style="margin:10px 0 5px 0;"><b>Favorite Tech Stack:</b></h3>
-<p style="font-size:18px; margin:2px 0;">Java • Spring Boot • Angular • DevOps Tools</p>
-
-<h3 style="margin:10px 0 5px 0;"><b>Currently Exploring:</b></h3>
-<p style="font-size:18px; margin:2px 0;">
-Machine Learning & Data Engineering<br>
-Cloud Computing & Microservices Architecture
-</p>
-
-<h3 style="margin:10px 0 5px 0;"><b>Location:</b></h3>
-<p style="font-size:18px; margin:2px 0;">Tunisia</p>
-
 
 <b>Let's Connect:</b>
 <a href="mailto:inestmimi1234@gmail.com" style="color: #FFD700; text-decoration: none;">inestmimi1234@gmail.com</a>
