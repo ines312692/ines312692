@@ -36,6 +36,7 @@
 <b>About Me:</b>
 Passionate about modern technologies and software architecture
 Always pushing the boundaries of what's possible with code
+
 <b>Favorite Tech Stack:</b>
 Java • Spring Boot • Angular • DevOps Tools
 
