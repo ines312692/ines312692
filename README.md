@@ -158,6 +158,10 @@ Cloud Computing & Microservices Architecture
     <td><a href="https://appsecmap.com/images/d/Trivy.png" target="_blank" rel="noreferrer"><img src="https://appsecmap.com/images/d/Trivy.png" alt="Trivy" width="40" height="40"/></a></td>
   
   </tr>
+  <tr>
+    <td><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/></a></td>
+     <td><a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://codigofacilito.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWUU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fbed3cd768579e593432115534858b9c8b80c272/mlflow.png" alt="MLflow" width="40" height="40"/></a></td>
+  </tr>
   </tr>
 </table>
 
