@@ -219,6 +219,48 @@ Cloud Computing & Microservices Architecture
 
 </div>
 
+## Certifications
+
+<div align="center">
+
+<!-- Oracle Cloud Infrastructure DevOps Professional -->
+<a href="https://www.credly.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20DevOps%20Professional-ff66cc?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==" alt="Oracle Cloud DevOps Professional"/>
+</a>
+
+<!-- Oracle Cloud Infrastructure AI Foundations Associate -->
+<a href="https://www.credly.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20AI%20Foundations%20Associate-b266ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==" alt="Oracle Cloud AI Foundations Associate"/>
+</a>
+
+<!-- Aviatrix Multicloud Network Associate -->
+<a href="https://www.credly.com/org/aviatrix/badge/multicloud-network-associate" target="_blank">
+  <img src="https://img.shields.io/badge/Aviatrix%20Multicloud%20Network%20Associate-8a2be2?style=for-the-badge&logo=aviatrix&logoColor=white" alt="Aviatrix Multicloud Network Associate"/>
+</a>
+
+<!-- GitHub Advanced Security -->
+<a href="https://github.com/features/security" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub%20Advanced%20Security-9b59b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Advanced Security"/>
+</a>
+
+<!-- DataCamp Associate Data Scientist -->
+<a href="https://www.datacamp.com/certificate/associate-data-scientist" target="_blank">
+  <img src="https://img.shields.io/badge/DataCamp%20Associate%20Data%20Scientist-ff99ff?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Associate Data Scientist"/>
+</a>
+
+<!-- DataCamp Associate Data Analyst -->
+<a href="https://www.datacamp.com/certificate/associate-data-analyst" target="_blank">
+  <img src="https://img.shields.io/badge/DataCamp%20Associate%20Data%20Analyst-cc66ff?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Associate Data Analyst"/>
+</a>
+
+<!-- DataCamp SQL Associate -->
+<a href="https://www.datacamp.com/certificate/sql-associate" target="_blank">
+  <img src="https://img.shields.io/badge/DataCamp%20SQL%20Associate-9966ff?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp SQL Associate"/>
+</a>
+
+</div>
+
+
 
 
 
