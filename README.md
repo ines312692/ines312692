@@ -220,19 +220,7 @@ Cloud Computing & Microservices Architecture
 </div>
 
 
-##  Certifications
 
-<div align="center">
-
-<img src="https://github.com/ines312692/ines312692/blob/main/oracle_devops.png?raw=true" width="110" style="margin: 10px;"/>
-<img src="https://github.com/ines312692/ines312692/blob/main/oracle_ai.png?raw=true" width="110" style="margin: 10px;"/>
-<img src="https://github.com/ines312692/ines312692/blob/main/aviatrix.png?raw=true" width="110" style="margin: 10px;"/>
-<img src="https://github.com/ines312692/ines312692/blob/main/github_security.png?raw=true" width="110" style="margin: 10px;"/>
-<img src="https://github.com/ines312692/ines312692/blob/main/datacamp_ds.png?raw=true" width="110" style="margin: 10px;"/>
-<img src="https://github.com/ines312692/ines312692/blob/main/datacamp_da.png?raw=true" width="110" style="margin: 10px;"/>
-<img src="https://github.com/ines312692/ines312692/blob/main/datacamp_sql.png?raw=true" width="110" style="margin: 10px;"/>
-
-</div>
 
 
 
