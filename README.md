@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Ines%20Tmimi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 0px;">
   <img src="https://github.com/ines312692/ines312692/blob/main/dabdoub.png" width="100px" style="border-radius: 50%; animation: rotate 20s linear infinite; margin-right: 15px;">
@@ -68,38 +66,30 @@ Cloud Computing & Microservices Architecture
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
-
 <!-- Row 1: Stats and Streak -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ines312692&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=764ba2&text_color=fff"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=ines312692&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ines312692&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=ines312692&theme=buefy-light"/>
 </p>
-
-<!-- Row 2: Top Languages -->
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ines312692&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=fff&langs_count=10"/>
-</p>
-
 <!-- Row 3: Activity Graph -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ines312692&bg_color=0D1117&color=FF69B4&line=764ba2&point=FF69B4&area_color=667eea&title_color=FF69B4&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ines312692&theme=github-light&bg_color=ffffff&color=d53f8c&line=d53f8c&point=d53f8c&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph"/>
 </p>
-
 <!-- Row 4: Contribution Stats and Productive Time -->
 <p align="center">
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=ines312692&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=fff&combine_all_yearly_contributions=true"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ines312692&theme=radical&utcOffset=1"/>
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=ines312692&limit=5&theme=buefy&combine_all_yearly_contributions=true"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ines312692&theme=buefy&utcOffset=1"/>
 </p>
-
 <!-- Row 5: Profile Details -->
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ines312692&theme=radical"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ines312692&theme=buefy"/>
 </p>
-
 </div>
+
+
 
 ---
 
@@ -275,7 +265,7 @@ Cloud Computing & Microservices Architecture
 ### Thanks for visiting! Let's connect and build something amazing together! 
 
 <!-- Animation de fin -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Happy+Coding!+💻;Let's+build+the+future+together!+🌟;Thank+you+for+visiting!+⭐;Open+to+collaboration!+🤝" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Happy+Coding!+;Let's+build+the+future+together!+;Thank+you+for+visiting!+;Open+to+collaboration!+" alt="Typing SVG" />
 
 
 
