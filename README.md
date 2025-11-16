@@ -71,8 +71,8 @@ Cloud Computing & Microservices Architecture
 <div align="center">
 <!-- Row 1: Stats and Streak -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ines312692&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=ines312692&theme=buefy-light"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ines312692&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=ines312692&theme=buefy-light"/>
 </p>
 <!-- Row 3: Activity Graph -->
 <p align="center">
