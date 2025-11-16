@@ -107,7 +107,8 @@ Cloud Computing & Microservices Architecture
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ines312692&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews,Organizations)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ines312692&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
@@ -276,8 +277,7 @@ Cloud Computing & Microservices Architecture
 <!-- Animation de fin -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Happy+Coding!+💻;Let's+build+the+future+together!+🌟;Thank+you+for+visiting!+⭐;Open+to+collaboration!+🤝" alt="Typing SVG" />
 
-<!-- Snake Animation -->
-![Snake animation](https://github.com/ines312692/ines312692/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 <!-- Footer avec animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer&animation=twinkling"/>
