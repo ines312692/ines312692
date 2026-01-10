@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/ines312692/ines312692/blob/main/banniere.gif?raw=true" alt="Banner" width="100%"/>
+  <img src="https://github.com/ines312692/ines312692/blob/main/banner.png?raw=true" alt="Banner" width="100%"/>
 </div>
 
 <br/>
