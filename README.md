@@ -69,27 +69,30 @@ Cloud Computing & Microservices Architecture
 ## GitHub Statistics
 
 <div align="center">
+
 <!-- Row 1: Stats and Streak -->
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ines312692&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://streak-stats.demolab.com?user=ines312692&theme=buefy-light"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ines312692&show_icons=true&theme=default&bg_color=ffffff&title_color=764ba2&text_color=333333&icon_color=ff69b4&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600"/>
+  <img height="160em" src="https://streak-stats.demolab.com/?user=ines312692&background=ffffff&ring=764ba2&fire=ff69b4&currStreakLabel=764ba2&sideLabels=333333&dates=333333&sideNums=ff69b4&currStreakNum=764ba2&hide_border=true&cache_seconds=3600" alt="GitHub Streak"/>
 </p>
-<!-- Row 3: Activity Graph -->
+
+<!-- Row 2: Activity Graph -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ines312692&theme=github-light&bg_color=ffffff&color=d53f8c&line=d53f8c&point=d53f8c&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ines312692graph?username=ines312692&theme=default&bg_color=ffffff&title_color=764ba2&text_color=333333&icon_color=ff69b4bg_color=ffffffgraph?username=ines312692&theme=default&bg_color=ffffff&title_color=764ba2&text_color=333333&icon_color=ff69b4color=764ba2graph?username=ines312692&theme=default&bg_color=ffffff&title_color=764ba2&text_color=333333&icon_color=ff69b4line=ff69b4graph?username=ines312692&theme=default&bg_color=ffffff&title_color=764ba2&text_color=333333&icon_color=ff69b4point=764ba2&title_color=764ba2&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
-<!-- Row 4: Contribution Stats and Productive Time -->
+
+<!-- Row 3: Top Languages and WakaTime-style stats -->
 <p align="center">
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=ines312692&limit=5&theme=buefy&combine_all_yearly_contributions=true"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ines312692&theme=buefy&utcOffset=1"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ines312692&layout=compact&langs_count=8&theme=default&bg_color=ffffff&title_color=764ba2&text_color=333333&icon_color=ff69b4&hide_border=true&cache_seconds=3600"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ines312692&show_icons=true&theme=default&bg_color=ffffff&title_color=764ba2&text_color=333333&icon_color=ff69b4&hide_border=true&hide_title=true&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=3600"/>
 </p>
-<!-- Row 5: Profile Details -->
+
+<!-- Row 4: Profile Details (via readme-stats) -->
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ines312692&theme=buefy"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ines312692&repo=ines312692&theme=default&bg_color=ffffff&title_color=764ba2&text_color=333333&icon_color=ff69b4&hide_border=true&cache_seconds=3600"/>
 </p>
+
 </div>
-
-
 
 ---
 
@@ -97,8 +100,7 @@ Cloud Computing & Microservices Architecture
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ines312692&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ines312692&theme=flat&no-frame=true&no-bg=true&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -140,7 +142,7 @@ Cloud Computing & Microservices Architecture
     <td><a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a></td>
     <td><a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a></td>
     <td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a></td>
-     <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/></a></td>
+    <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/></a></td>
   </tr>
 </table>
 
@@ -152,7 +154,7 @@ Cloud Computing & Microservices Architecture
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a></td>
- <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a></td>
+    <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a></td>
   </tr>
 </table>
 
@@ -173,23 +175,22 @@ Cloud Computing & Microservices Architecture
     <td><a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a></td>
   </tr>
   <tr>
-  <td><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a></td>
-   <td><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/></a></td>
+    <td><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a></td>
+    <td><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/></a></td>
     <td><a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/fav32.png" alt="Grafana" width="40" height="40"/></a></td>
     <td><a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/775px-Prometheus_software_logo.svg.png" alt="Prometheus" width="40" height="40"/></a></td>
     <td><a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=argocd" alt="Argo CD" width="40" height="40"/></a></td>
-  
-   <td><a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40"/></a></td>
     <td><a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a></td>
     <td><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a></td>
     <td><a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=helm" alt="Helm" width="40" height="40"/></a></td>
     <td><a href="https://snyk.io/" target="_blank" rel="noreferrer"><img src="https://go-skill-icons.vercel.app/api/icons?i=snyk" alt="Snyk" width="40" height="40"/></a></td>
     <td><a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40"/></a></td>
-    <td><a href="https://appsecmap.com/images/d/Trivy.png" target="_blank" rel="noreferrer"><img src="https://appsecmap.com/images/d/Trivy.png" alt="Trivy" width="40" height="40"/></a></td>
+    <td><a href="https://aquasecurity.github.io/trivy/" target="_blank" rel="noreferrer"><img src="https://appsecmap.com/images/d/Trivy.png" alt="Trivy" width="40" height="40"/></a></td>
   </tr>
   <tr>
     <td><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/></a></td>
-     <td><a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://codigofacilito.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWUU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fbed3cd768579e593432115534858b9c8b80c272/mlflow.png" alt="MLflow" width="40" height="40"/></a></td>
+    <td><a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://codigofacilito.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWUU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fbed3cd768579e593432115534858b9c8b80c272/mlflow.png" alt="MLflow" width="40" height="40"/></a></td>
   </tr>
 </table>
 
@@ -208,37 +209,30 @@ Cloud Computing & Microservices Architecture
 
 <div align="center">
 
-<!-- Oracle Cloud Infrastructure DevOps Professional -->
 <a href="https://www.credly.com/" target="_blank">
   <img src="https://img.shields.io/badge/Oracle%20Cloud%20DevOps%20Professional-ff66cc?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud DevOps Professional"/>
 </a>
 
-<!-- Oracle Cloud Infrastructure AI Foundations Associate -->
 <a href="https://www.credly.com/" target="_blank">
   <img src="https://img.shields.io/badge/Oracle%20Cloud%20AI%20Foundations%20Associate-b266ff?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud AI Foundations Associate"/>
 </a>
 
-<!-- Aviatrix Multicloud Network Associate -->
 <a href="https://www.credly.com/org/aviatrix/badge/multicloud-network-associate" target="_blank">
   <img src="https://img.shields.io/badge/Aviatrix%20Multicloud%20Network%20Associate-8a2be2?style=for-the-badge&logoColor=white" alt="Aviatrix Multicloud Network Associate"/>
 </a>
 
-<!-- GitHub Advanced Security -->
 <a href="https://github.com/features/security" target="_blank">
   <img src="https://img.shields.io/badge/GitHub%20Advanced%20Security-9b59b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Advanced Security"/>
 </a>
 
-<!-- DataCamp Associate Data Scientist -->
 <a href="https://www.datacamp.com/certificate/associate-data-scientist" target="_blank">
   <img src="https://img.shields.io/badge/DataCamp%20Associate%20Data%20Scientist-ff99ff?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Associate Data Scientist"/>
 </a>
 
-<!-- DataCamp Associate Data Analyst -->
 <a href="https://www.datacamp.com/certificate/associate-data-analyst" target="_blank">
   <img src="https://img.shields.io/badge/DataCamp%20Associate%20Data%20Analyst-cc66ff?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Associate Data Analyst"/>
 </a>
 
-<!-- DataCamp SQL Associate -->
 <a href="https://www.datacamp.com/certificate/sql-associate" target="_blank">
   <img src="https://img.shields.io/badge/DataCamp%20SQL%20Associate-9966ff?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp SQL Associate"/>
 </a>
@@ -247,7 +241,7 @@ Cloud Computing & Microservices Architecture
 
 ---
 
-##  **Connect with Me**
+## Connect with Me
 
 <div align="center">
   
@@ -262,14 +256,10 @@ Cloud Computing & Microservices Architecture
 
 <div align="center">
 
-### Thanks for visiting! Let's connect and build something amazing together! 
+### Thanks for visiting! Let's connect and build something amazing together!
 
-<!-- Animation de fin -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Happy+Coding!+;Let's+build+the+future+together!+;Thank+you+for+visiting!+;Open+to+collaboration!+" alt="Typing SVG" />
 
-
-
-<!-- Footer avec animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer&animation=twinkling"/>
 
 </div>
