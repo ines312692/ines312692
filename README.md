@@ -80,7 +80,7 @@ Cloud Computing & Microservices Architecture
 </p>
 <!-- Row 4: Contribution Stats and Productive Time -->
 <p align="center">
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=ines312692&limit=5&theme=buefy&combine_all_yearly_contributions=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ines312692&layout=compact&langs_count=6&bg_color=ffffff&title_color=764ba2&text_color=333333&hide_border=true&cache_seconds=3600"/>
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ines312692&theme=buefy&utcOffset=1"/>
 </p>
 <!-- Row 5: Profile Details -->
@@ -97,8 +97,7 @@ Cloud Computing & Microservices Architecture
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ines312692&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ines312692&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
